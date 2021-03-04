@@ -14,8 +14,8 @@ user so the user can see what has been entered. </p>
         
 <h3>How you can use it</h3>
 
-<p>Nothing needs to be imported to use this program. To use it, simply run it and follow the on-screen instructions. If the program prompts you to "please try again," you will need to run the program again from scratch (on JupyterLab, press Shift+Enter)</p>
+<p>To use this program, you need to have JupyterLab installed and ready to use. Copy and paste the link to the GitHub Repository (see below) and run the command "git clone 'link' ". This should create a new folder with all of the necessary files inside. Navigate to program_ctf16.ipynb. Nothing additional needs to be imported to use this program. To use it, simply run the first code cell and follow the on-screen instructions. If the program prompts you to "please try again," you will need to run the program again from scratch (on JupyterLab, press Shift+Enter)</p>
         
 <h3>How you can contribute</h3>
 
-<p>This program was made in JupyterLab and uploaded to Mark's <a href='https://github.com/mjm388/Lab-5'>GitHub Page</a>. To contribute, fork our repository. Once you are done, you can use your program or save your changes to our repository by sending a pull request.</p>
+<p>This program was made in JupyterLab and uploaded to Mark's <a href='https://github.com/mjm388/Lab-5'>GitHub Page</a>. To contribute, fork our repository. Once you are done, you can freely use your program or save your changes to our repository by sending a pull request.</p>
