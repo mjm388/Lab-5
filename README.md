@@ -10,7 +10,7 @@
 <p>This program acts as a way of storing data about one's family (or any group of people, for that matter). 
 It takes an integer input for how many people will be entered into the makeshift 'database.' For each family member, the user will 
 be prompted to enter a name, age and hobby. As each family member is added to the database, the program will reiterate it to the
-user so the user can see what has been entered. </p>
+user so the user can see what has been entered. After every member has been added to the database, the program will automatically tell you who each member is and give their name, age and hobby. </p>
         
 <h3>How you can use it</h3>
 
