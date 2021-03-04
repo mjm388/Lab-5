@@ -1,11 +1,9 @@
 # Lab-5
-<html>
-    <body>
 <h1> Lab 5 Assignment </h1>
 
 
-    <h2> Authors </h2>
-    <strong>Calvin Forinash and Mark Marquez</strong>
+<h2>Authors</h2>
+    <h4>Calvin Forinash and Mark Marquez</h4>
         
         <h3>What it does</h3>
 
@@ -20,5 +18,3 @@ user so the user can see what has been entered. </p>
         
         <h3>How you can contribute</h3>
 <p>This program was made in JupyterLab and uploaded to Mark's <a href='https://github.com/mjm388/Lab-5'>GitHub Page</a>. To contribute, fork our repository. Once you are done, you can use your program or save your changes to our repository by sending a pull request.</p>
-    </body>
-</html>
