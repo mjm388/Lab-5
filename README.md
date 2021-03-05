@@ -19,3 +19,4 @@ user so the user can see what has been entered. After every member has been adde
 <h3>How you can contribute</h3>
 
 <p>This program was made in JupyterLab and uploaded to Mark's <a href='https://github.com/mjm388/Lab-5'>GitHub Page</a>. To contribute, fork our repository. Once you are done, you can freely use your program or save your changes to our repository by sending a pull request.</p>
+
