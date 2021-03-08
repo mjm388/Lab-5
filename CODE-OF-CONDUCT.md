@@ -82,3 +82,5 @@ It is foreseeable that this code of conduct will need additions and to be improv
 Credits
 
 This Code of Conduct was based on the Ada Initiative’s HOWTO design a code of conduct for your community, as well as CoCs from the Hoodie and Django projects.
+
+Taken from https://github.com/opensourcedesign/opensourcedesign.github.io/blob/master/code-of-conduct.md
