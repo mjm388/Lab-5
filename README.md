@@ -20,5 +20,6 @@ user so the user can see what has been entered. After every member has been adde
 
 <p>This program was made in JupyterLab and uploaded to Mark's <a href='https://github.com/mjm388/Lab-5'>GitHub Page</a>. To contribute, fork our repository. Once you are done, you can freely use your program or save your changes to our repository by sending a pull request.</p>
 
-Miscellany
+<h3>Miscellany</h3?
+   
 The license I chose for the coded of conduct relates to the modifying or changing of the program and what can be done with said program. The code of conduct is related to the community and how they should interact with each other in regards to the code/program. 
